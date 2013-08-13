@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/panjigautama/Documents/Project/BarcodeScan/.metadata/.plugins/org.eclipse.jdt.core
+3687598972.index
+2250057917.index
